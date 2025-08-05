@@ -25,7 +25,7 @@ This app enables users to perform full **CRUD (Create, Read, Update, Delete)** o
 - **React.js** – Component-based UI library
 - **React Hooks** – For managing state (`useState`) and side effects (`useEffect`)
 - **Axios** – HTTP client to communicate with the backend API
-- **CSS3 + Bootstrap** – For styling and mobile-friendly layout
+- **Tailwind CSS** – For styling and mobile-friendly layout
 
 ### 🔗 Backend
 
